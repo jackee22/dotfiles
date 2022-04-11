@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jack_hanna1@hotmail.com
+	name = jack hanna
